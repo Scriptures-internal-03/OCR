@@ -1,5 +1,7 @@
 # OCR
-multi script OCR using Google OCR API
+This is multi script OCR 
+
+
 Download it to any linux box box and do the following steps.
 Setup JDK 1.8 on your machine. Follow instructions as in here - https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html
 Cop the attached credentials file into a folder called ".oauth-credentials" under the home folder of the user.
